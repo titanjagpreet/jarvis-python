@@ -2,3 +2,4 @@ config.py
 musicLibrary.py
 save.py
 __pycache__/
+venv/
